@@ -8,5 +8,6 @@
 - chmod (change mode)
 
 
-
 ### SHEBANG (#!)
+used for commenting in shell
+#!/bin/bash
